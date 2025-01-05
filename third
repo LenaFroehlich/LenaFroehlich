@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>third page</title>
+        <style>
+        body {
+            background-color: rgb(166, 212, 159);
+        }
+        
+        .blue {
+            background-color: rgb(82, 141, 235);
+        }
+        
+        .purple {
+            background-color: rgb(204, 141, 227);
+        }
+        
+        .pink {
+            background-color: rgb(237, 138, 204);
+    
+}
+        }</style>
+       
+    </head>
+    <body>
+     <h1 class="pink">third page</h1>
+     <h2 class="blue"><a href="file:///C:/Users/Lena/Documents/mainPage.html">Back to Main</a> </h2>
+     <h2 class="purple"><a href="file:///C:/Users/Lena/Documents/secondPage.html">second page</a> </h2>
+
+
+    </body>
+</html>
